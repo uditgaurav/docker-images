@@ -1,9 +1,15 @@
+## Table of content
+- [Check the available commands](https://github.com/uditgaurav/docker-images#check-the-available-commands)
+- [List Down all the Images](https://github.com/uditgaurav/docker-images#list-down-all-the-images)
+- [Pull the LitmusChaos Images to your machine](https://github.com/uditgaurav/docker-images#pull-the-litmuschaos-images-to-your-machine)
+- [Push the LitmusChaos Images to your repository](https://github.com/uditgaurav/docker-images#push-the-litmuschaos-images-to-your-repository)
+
 ## LitmusChaos Images
 
 - This Repository contains all the images that are used to execute a litmuschaos generic experiment using litmus portal. For more information please check [LitmusChaos Repo](http://github.com/litmuschaos/litmus).
 
 
-## Push LitmusChaos Images In Your Repository
+## Get LitmusChaos Images In Your Repository
 
 - For pulling the litmus image and pushing into your registry please follow the given steps:
 
@@ -74,6 +80,11 @@ Other images are:
 #### Pull the LitmusChaos Images to your machine
 
 - For pulling LitmusChaos images to your machine run the script with **TWO** first one will be pull and second one will be the image tag you want to pull:
+
+Format:
+```
+./litmus_image_push.sh pull <IMAGE-TAG>
+```
 
 Example: 
 ```
