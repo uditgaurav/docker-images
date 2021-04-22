@@ -14,7 +14,7 @@
 - For pulling the litmus image and pushing into your registry please follow the given steps:
 
 ```bash
-wget 
+wget https://raw.githubusercontent.com/uditgaurav/docker-images/master/litmus_image_push.sh
 chmod +x litmus_image_push.sh
 ```
 
