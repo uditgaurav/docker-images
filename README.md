@@ -22,7 +22,7 @@ chmod +x litmus_image_push.sh
 
 ```bash
 
-root@ip-172-31-23-87:~# ./litmus_image_push.sh -h
+udit@ubuntu ~/D/docker-images> bash litmus_image_push.sh -h
 
 Usage: litmus_image_push.sh ARGS (list|pull|tag|push)
 
@@ -37,7 +37,7 @@ pull:        "litmus_image_push.sh pull <image-tag>" will pull the litmus images
               latest image tag from latest release tag in the repo. 
 
 
-tag:          "litmus_image_push.sh tag <repository> <old-image-tag> <new-image-tag>" will tag the litmus
+push:          "litmus_image_push.sh tag <repository> <old-image-tag> <new-image-tag>" will tag the litmus
                images with the given version and repository and push it. 
                For example try running 'litmus_image_push.sh uditgaurav 1.0' to tag the image with version 
                '1.0' and repository 'uditgaurav' and start pushing it.
