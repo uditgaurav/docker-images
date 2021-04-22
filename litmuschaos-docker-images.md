@@ -4,8 +4,6 @@
 
 ```bash
     Image:         argoproj/argocli:v2.9.3
-    Image:         litmuschaos/chaos-exporter:1.13.3
-    Image:         litmuschaos/chaos-operator:1.13.3
     Image:         litmuschaos/litmusportal-event-tracker:2.0.0-Beta4
     Image:         litmuschaos/litmusportal-frontend:2.0.0-Beta4
     Image:         mongo:4.2.8
