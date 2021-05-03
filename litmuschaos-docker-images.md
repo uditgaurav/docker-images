@@ -28,6 +28,9 @@
 #### Monitoring
 ```bash
     Image:         litmuschaos/chaos-exporter:ci
+```
+#### Optional
+```bash
     Image:         grafana/grafana:latest
     Image:         quay.io/prometheus/prometheus:v2.19.2
     Image:         quay.io/coreos/prometheus-config-reloader:v0.42.1
