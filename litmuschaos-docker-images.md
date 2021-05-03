@@ -29,7 +29,7 @@
 ```bash
     Image:         litmuschaos/chaos-exporter:ci
 ```
-#### Optional
+#### (Optional)
 ```bash
     Image:         grafana/grafana:latest
     Image:         quay.io/prometheus/prometheus:v2.19.2
