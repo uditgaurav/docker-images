@@ -17,18 +17,15 @@
 ```bash
     Image:         litmuschaos/chaos-runner:1.13.3
     Image:         litmuschaos/chaos-operator:1.13.3
-    Image:         litmuschaos/chaos-operator:1.13.2        
 ```    
 
 #### Experiment Image
 ```bash
     Image:         litmuschaos/go-runner:1.13.3
-    Image:         litmuschaos/chaos-operator:1.13.2        
 ```
 
 #### Monitoring
 ```bash
-    Image:         litmuschaos/chaos-exporter:1.13.2
     Image:         litmuschaos/chaos-exporter:1.13.3
 ```
 #### (Optional)
