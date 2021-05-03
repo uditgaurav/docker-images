@@ -17,6 +17,7 @@
 ```bash
     Image:         litmuschaos/chaos-runner:1.13.3
     Image:         litmuschaos/chaos-operator:1.13.3
+    Image:         litmuschaos/chaos-operator:1.13.2    
 ```    
 
 #### Experiment Image
