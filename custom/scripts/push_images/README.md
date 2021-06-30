@@ -1,5 +1,5 @@
 ## Table of content
-- [Supported Tunables](https://github.com/uditgaurav/test-tools/custom/scripts/push_images#supported-tunables)
+- [Supported Tunables](https://github.com/uditgaurav/docker-images/custom/scripts/push_images#supported-tunables)
 - [Check the available commands](https://github.com/uditgaurav/test-tools/custom/scripts/push_images#check-the-available-commands)
 - [List Down all the Images](https://github.com/uditgaurav/test-tools/custom/scripts/push_images#list-down-all-the-images)
 - [Pull the LitmusChaos Images into your machine](https://github.com/uditgaurav/test-tools/custom/scripts/push_images#pull-the-litmuschaos-images-into-your-machine)
